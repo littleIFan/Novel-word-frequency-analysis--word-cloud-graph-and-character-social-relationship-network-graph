@@ -1,0 +1,4 @@
+matplotlib
+jieba
+networkx
+wordcloud
